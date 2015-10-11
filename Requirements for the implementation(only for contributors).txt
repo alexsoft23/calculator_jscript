@@ -1,0 +1,45 @@
+In this repository we will create a new web calculator like in windows 10.
+And we will do some modification and addition.
+
+Requirements:
+
+1.Creating 3 types of calculator including the Standard, Scientific, 
+and Programmer modes using js class and function for Unit Conversion calculator.
+
+2.You must predicted usage "(",")" for basic calculators(no Unit Conversion calculator)
+
+3.Welcome a new interesting ideas!!!)))
+
+4.You must create a new folder. And save your calculators in this folder.
+
+5.You can used a calculator.html and style/style.css to start your job.
+
+If your calculators will be a good,thrn I will add your calculator to the end product!)
+
+
+Let the fun begin!!!))) 
+
+
+У цьому репозиторію ми створюємо новий калькулятор як у windows 10.
+І ми будемо робит також певні модифікації та доповнення.
+
+Вимоги:
+
+1.Створюємо 3 типи калькуляторів за допомогою класів js і конвектори за допомогою функцій 
+(Пізніше ці функції можна буде додати до класу, люди що розробляють калькулятори прохання спільні
+моменти обєднати в один клас а потім наслідувати його). 
+
+2.Передбачити використання дужок для виконання складних операцій(тільки для калькуляторів)ю 
+
+3.Вітаються нові ідеї!!!)))
+
+4.Коний учасник створює свою папку в якій працює і робить зміни.
+
+5.Для старту роботи використовуйте заропоновані файли alculator.html і style/style.css
+
+ПС:"Якщо щось в цих файлах неподобається то користуйтест пунктом 3"
+
+Якщо ваш калькулятор/конвектор буде зроблено добре то його буде приєднано до кінцевого продукту
+калькулятора як у windows 10.
+
+Хай буде весело всім!!!)))
